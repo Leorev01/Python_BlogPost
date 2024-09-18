@@ -3,5 +3,5 @@
 - Open command prompt
 - Navigate to main folder directory
 - Run command: 'b_env\Scripts\activate'
-- Run command: 'python manage.py startapp'
+- Run command: 'python manage.py runserver'
 - This will give you local URL
